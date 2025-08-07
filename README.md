@@ -9,7 +9,7 @@
 
 - I’m currently learning (spending a lot of time for a greater good) **Scikit Learn, Tensorflow, Data Science**
 
-- 👨‍💻 All of my projects are available at [https://dedaldino3d.herokuapp.com](https://dedaldino.com)
+- 👨‍💻 All of my projects are available at [https://dedaldino.com](https://dedaldino.com)
 
 - 💬 Ask me about **Java, C++, Python, JavaScript, Erlang, Nodejs,React, Django, Spring Boot, Spring Data, Flask, XMPP, Express, MongoDB, PostgreSQL, Redis, MySQL**
 
