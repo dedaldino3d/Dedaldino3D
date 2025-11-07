@@ -1,5 +1,4 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=dedaldino3d&theme=transparent)
-![Commits Badge](https://badges.pufler.dev/commits/monthly/dedaldino3d)
 
 # Hi, I'm Dedaldino António 👋
 
@@ -127,10 +126,6 @@ If you’re hiring for **senior software, fullstack, backend, or payments roles*
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dedaldino3d&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dedaldino3d&theme=algolia" alt="GitHub Streak" />
 </p>
 
 ---
